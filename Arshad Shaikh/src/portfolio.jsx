@@ -34,7 +34,7 @@ export default function Portfolio() {
   }, []);
 
   const copyEmail = async () => {
-    const email = "your.email@example.com";
+    const email = "arshadshaikh868686@gmail.com";
     try {
       await navigator.clipboard.writeText(email);
       setCopied(true);

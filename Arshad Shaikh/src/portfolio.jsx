@@ -61,7 +61,7 @@ export default function Portfolio() {
     { name: "Cloudinary", type: "Cloud-Service", level: "Project use" },
     { name: "Jitsi", type: "Open Source", level: "Project use" },
     { name: "Razorpay Integration", type: "Open Source", level: "Project use" },
-    { name: "", type: "Open Source", level: "Project use" },
+    { name: "Ai Api", type: "Open Source", level: "Project use" },
     { name: "Git & GitHub", type: "TOOLS", level: "Workflow" },
     { name: "TypeScript", type: "LEARNING", level: "In progress" },
     { name: "SQL / PostgreSQL", type: "LEARNING", level: "In progress" },
